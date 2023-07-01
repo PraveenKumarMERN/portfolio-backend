@@ -1,16 +1,16 @@
 import http from "http";
 import { env } from "../../env";
 import { Application } from "express";
-import { Logger } from "pino";
+// import { Logger } from "pino";
 import { logger } from "./logger";
 
 export class Server {
   server: http.Server;
-  logger: Logger;
+  // logger: Logger;
 
   constructor(app: Application) {
     this.server = http.createServer(app);
-    this.logger = logger;
+    // this.logger = logger;
   }
 
   /**
@@ -18,7 +18,7 @@ export class Server {
    */
   async start() {
     this.server.listen(env.app.port);
-    this.logger.info("Server Listening on port:" + env.app.port);
+    // this.logger.info("Server Listening on port:" + env.app.port);
     this.server.on("error", this.onError);
   }
 
@@ -39,11 +39,11 @@ export class Server {
     // handle specific listen errors with friendly messages
     switch (error.code) {
       case "EACCES":
-        this.logger.fatal(bind + " requires elevated privileges");
+        // this.logger.fatal(bind + " requires elevated privileges");
         process.exit(1);
         break;
       case "EADDRINUSE":
-        this.logger.fatal(bind + " is already in use");
+        // this.logger.fatal(bind + " is already in use");
         process.exit(1);
         break;
       default:

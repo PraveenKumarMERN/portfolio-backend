@@ -15,11 +15,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.Server = void 0;
 const http_1 = __importDefault(require("http"));
 const env_1 = require("../../env");
-const logger_1 = require("./logger");
 class Server {
+    // logger: Logger;
     constructor(app) {
         this.server = http_1.default.createServer(app);
-        this.logger = logger_1.logger;
+        // this.logger = logger;
     }
     /**
      *  runs the server
@@ -27,7 +27,7 @@ class Server {
     start() {
         return __awaiter(this, void 0, void 0, function* () {
             this.server.listen(env_1.env.app.port);
-            this.logger.info("Server Listening on port:" + env_1.env.app.port);
+            // this.logger.info("Server Listening on port:" + env.app.port);
             this.server.on("error", this.onError);
         });
     }
@@ -45,11 +45,11 @@ class Server {
             // handle specific listen errors with friendly messages
             switch (error.code) {
                 case "EACCES":
-                    this.logger.fatal(bind + " requires elevated privileges");
+                    // this.logger.fatal(bind + " requires elevated privileges");
                     process.exit(1);
                     break;
                 case "EADDRINUSE":
-                    this.logger.fatal(bind + " is already in use");
+                    // this.logger.fatal(bind + " is already in use");
                     process.exit(1);
                     break;
                 default:
