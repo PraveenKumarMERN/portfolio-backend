@@ -33,7 +33,7 @@ export class LoginService {
     if (user && user.password) {
       const isValid = bcrypt.compareSync(password, user.password);
       if (isValid) {
-        return user;
+        // return user;
       }
     }
     return null;

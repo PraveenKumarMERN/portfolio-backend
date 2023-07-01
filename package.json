@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "rimraf dist && npm run schema && npx tsc && npm run copy ",
+    "build": "rimraf dist && npm run schema && npx tsc",
     "start": "node dist/app.js",
     "dev": "ts-node-dev  --transpile-only --exit-child  --ignore-watch src/storage   src/app.ts | pino-pretty -t='SYS:ddd mmm dd yyyy h:MM:ss TT'",
     "copy": "cp -r ./src/storage ./dist/ && cp -r ./src/public ./dist/ && cp -r ./src/views ./dist/ && cp -r ./src/locales ./dist/ && cp .env dist/",
