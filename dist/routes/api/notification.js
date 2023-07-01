@@ -1,9 +1,10 @@
 "use strict";
-// import { Router } from "express";
-// // import { NotificationController } from "../../app/http/controllers/api/Notification/NotificationController";
-// import { paginationCleaner } from "../../app/http/middleware/Pagination";
-// const router = Router();
-// router.get("/", paginationCleaner, NotificationController.index);
-// router.delete("/", NotificationController.deleteAll);
-// router.delete("/:id", NotificationController.delete);
-// export default router;
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const NotificationController_1 = require("../../app/http/controllers/api/Notification/NotificationController");
+const Pagination_1 = require("../../app/http/middleware/Pagination");
+const router = (0, express_1.Router)();
+router.get("/", Pagination_1.paginationCleaner, NotificationController_1.NotificationController.index);
+router.delete("/", NotificationController_1.NotificationController.deleteAll);
+router.delete("/:id", NotificationController_1.NotificationController.delete);
+exports.default = router;

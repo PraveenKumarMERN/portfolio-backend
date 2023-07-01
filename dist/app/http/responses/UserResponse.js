@@ -10,7 +10,6 @@ const UserResponse = (data) => {
 exports.UserResponse = UserResponse;
 const objectResponse = (user) => {
     return {
-        id: user.id,
         firstName: user.firstName,
         lastName: user.lastName,
         fullName: user.firstName + " " + user.lastName,

@@ -1,13 +1,13 @@
-// import { Router } from "express";
-// // import { NotificationController } from "../../app/http/controllers/api/Notification/NotificationController";
-// import { paginationCleaner } from "../../app/http/middleware/Pagination";
+import { Router } from "express";
+import { NotificationController } from "../../app/http/controllers/api/Notification/NotificationController";
+import { paginationCleaner } from "../../app/http/middleware/Pagination";
 
-// const router = Router();
+const router = Router();
 
-// router.get("/", paginationCleaner, NotificationController.index);
+router.get("/", paginationCleaner, NotificationController.index);
 
-// router.delete("/", NotificationController.deleteAll);
+router.delete("/", NotificationController.deleteAll);
 
-// router.delete("/:id", NotificationController.delete);
+router.delete("/:id", NotificationController.delete);
 
-// export default router;
+export default router;

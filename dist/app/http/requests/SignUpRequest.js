@@ -11,7 +11,7 @@ exports.SignUpRequest = (0, yup_1.object)({
     confirm_password: (0, yup_1.string)()
         .required()
         .oneOf([(0, yup_1.ref)("password")], "confirm password and password must be same"),
-    deviceType: (0, yup_1.string)().oneOf(Object.values(client_1.DEVICES)).required(),
+    deviceType: (0, yup_1.string)().oneOf(Object.values(client_1.Devices)).required(),
     metaData: (0, yup_1.object)(),
     fcmToken: (0, yup_1.string)(),
 });

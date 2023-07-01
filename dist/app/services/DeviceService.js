@@ -39,11 +39,13 @@ exports.DeviceService = void 0;
 const env_1 = require("../../env");
 const jwt = __importStar(require("jsonwebtoken"));
 const db_1 = __importDefault(require("../providers/db"));
+const client_1 = require("@prisma/client");
+const Notification_1 = require("../notification/Notification");
+const types_1 = require("../../utils/types");
 class DeviceService {
-    static create(userId, deviceType, userType, fcmToken, metaData) {
+    static create(userId, deviceType, fcmToken, metaData) {
         return __awaiter(this, void 0, void 0, function* () {
-            console.log("env.auth.secret", env_1.env.auth.secret);
-            const token = yield jwt.sign({ userId: userId, userType }, env_1.env.auth.secret, {
+            const token = yield jwt.sign({ userId: userId }, env_1.env.auth.secret, {
                 expiresIn: env_1.env.auth.expiresIn,
             });
             if (typeof token === "undefined") {
@@ -54,8 +56,12 @@ class DeviceService {
                     authToken: token,
                     fcmToken: fcmToken,
                     metaData: metaData !== null ? metaData : {},
-                    userId: userId,
-                    userType: userType
+                    device: deviceType,
+                    user: {
+                        connect: {
+                            id: userId,
+                        },
+                    },
                 },
             });
         });
@@ -77,15 +83,10 @@ class DeviceService {
                     id: deviceId,
                 },
             });
-            // if (device?.fcmToken) {
-            //   const payload = {};
-            //   await new Notification(
-            //     [PushNotificationChannels.PUSH],
-            //     payload,
-            //     // NotificationTypes.LoggedOut,
-            //     [device.fcmToken]
-            //   ).send();
-            // }
+            if (device === null || device === void 0 ? void 0 : device.fcmToken) {
+                const payload = {};
+                yield new Notification_1.Notification([types_1.PushNotificationChannels.PUSH], payload, client_1.NotificationTypes.LoggedOut, [device.fcmToken]).send();
+            }
             return yield db_1.default.device.deleteMany({
                 where: {
                     id: deviceId,

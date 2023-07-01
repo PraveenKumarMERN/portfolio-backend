@@ -1,4 +1,4 @@
-import { DEVICES } from "@prisma/client";
+import { Devices } from "@prisma/client";
 import { object, ref, string } from "yup";
 
 export const SignUpRequest = object({
@@ -9,7 +9,7 @@ export const SignUpRequest = object({
   confirm_password: string()
     .required()
     .oneOf([ref("password")], "confirm password and password must be same"),
-  deviceType: string().oneOf(Object.values(DEVICES)).required(),
+  deviceType: string().oneOf(Object.values(Devices)).required(),
   metaData: object(),
   fcmToken: string(),
 });

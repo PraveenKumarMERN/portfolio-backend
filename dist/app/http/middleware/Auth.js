@@ -33,8 +33,8 @@ const verifyToken = (req, res, next) => __awaiter(void 0, void 0, void 0, functi
         if (typeof decoded !== "string") {
             const device = yield db_1.default.device.findFirst({
                 where: {
-                    authToken: token,
-                    deletedAt: null,
+                    userId: decoded.userId,
+                    deletedAt: null || undefined,
                 },
                 include: {
                     user: true,

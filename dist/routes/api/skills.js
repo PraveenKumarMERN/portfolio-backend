@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const skills_1 = require("../../app/http/controllers/api/skills/skills");
+const Auth_1 = require("../../app/http/middleware/Auth");
+const RequestValidator_1 = require("../../app/http/middleware/RequestValidator");
+const SkillsRequest_1 = require("../../app/http/requests/SkillsRequest");
+const router = (0, express_1.Router)();
+router.put("/", (0, RequestValidator_1.RequestValidator)(SkillsRequest_1.SkillsRequest), Auth_1.verifyToken, skills_1.SkillsController.updateSkills);
+router.get("/", skills_1.SkillsController.index);
+exports.default = router;

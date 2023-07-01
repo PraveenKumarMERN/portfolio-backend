@@ -1,21 +1,18 @@
 import { env } from "../../env";
 import * as jwt from "jsonwebtoken";
 import dbConnection from "../providers/db";
-import { Device, USER_TYPE } from "@prisma/client";
-// import { Notification } from "../notification/Notification";
+import { Device, Devices, NotificationTypes } from "@prisma/client";
+import { Notification } from "../notification/Notification";
 import { PushNotificationChannels } from "../../utils/types";
 
 export class DeviceService {
   public static async create(
     userId: string,
-    deviceType: Device,
-    userType: any,
+    deviceType: Devices,
     fcmToken?: string,
-    metaData?: any,
+    metaData?: any
   ): Promise<Device> {
-    console.log("env.auth.secret", env.auth.secret);
-
-    const token = await jwt.sign({ userId: userId, userType }, env.auth.secret, {
+    const token = await jwt.sign({ userId: userId }, env.auth.secret, {
       expiresIn: env.auth.expiresIn,
     });
     if (typeof token === "undefined") {
@@ -27,8 +24,12 @@ export class DeviceService {
         authToken: token,
         fcmToken: fcmToken,
         metaData: metaData !== null ? metaData : {},
-        userId: userId,
-        userType: userType
+        device: deviceType,
+        user: {
+          connect: {
+            id: userId,
+          },
+        },
       },
     });
   }
@@ -49,15 +50,15 @@ export class DeviceService {
       },
     });
 
-    // if (device?.fcmToken) {
-    //   const payload = {};
-    //   await new Notification(
-    //     [PushNotificationChannels.PUSH],
-    //     payload,
-    //     // NotificationTypes.LoggedOut,
-    //     [device.fcmToken]
-    //   ).send();
-    // }
+    if (device?.fcmToken) {
+      const payload = {};
+      await new Notification(
+        [PushNotificationChannels.PUSH],
+        payload,
+        NotificationTypes.LoggedOut,
+        [device.fcmToken]
+      ).send();
+    }
 
     return await dbConnection.device.deleteMany({
       where: {

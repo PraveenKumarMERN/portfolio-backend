@@ -14,7 +14,7 @@ const user_1 = require("./user");
 const prisma = new client_1.PrismaClient();
 const loadSeeders = () => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const usersInput = yield (0, user_1.users)(20);
+        const usersInput = yield (0, user_1.users)(1);
         yield prisma.user.createMany({ data: usersInput });
     }
     catch (e) {

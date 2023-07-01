@@ -17,13 +17,13 @@ const options = {
 };
 const transporter = nodemailer_1.default.createTransport(options);
 transporter.use("compile", (0, nodemailer_express_handlebars_1.default)({
-    viewPath: "src/views/email",
+    viewPath: `${env_1.env.app.root_dir}/views/email`,
     extName: ".hbs",
     viewEngine: {
         extname: ".hbs",
-        layoutsDir: "src/views/email/",
+        layoutsDir: `${env_1.env.app.root_dir}/views/email/`,
         defaultLayout: "layout",
-        partialsDir: "src/views/email/", // location of your subtemplates aka. header, footer etc
+        partialsDir: `${env_1.env.app.root_dir}/views/email/`, // location of your subtemplates aka. header, footer etc
     },
 }));
 exports.default = transporter;

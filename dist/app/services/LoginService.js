@@ -15,7 +15,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.LoginService = void 0;
 const db_1 = __importDefault(require("../providers/db"));
 const bcryptjs_1 = __importDefault(require("bcryptjs"));
-const client_1 = require("@prisma/client");
 class LoginService {
     /**
      *
@@ -23,27 +22,17 @@ class LoginService {
      * @param password
      * @returns user
      */
-    static login(email, password, userType) {
+    static login(email, password) {
         return __awaiter(this, void 0, void 0, function* () {
-            let user;
-            if (userType === client_1.USER_TYPE.ADMIN) {
-                user = yield db_1.default.admin.findFirst({
-                    where: {
-                        email: email,
-                    },
-                });
-            }
-            else {
-                user = yield db_1.default.user.findFirst({
-                    where: {
-                        email: email,
-                    },
-                });
-            }
+            const user = yield db_1.default.user.findFirst({
+                where: {
+                    email: email,
+                },
+            });
             if (user && user.password) {
                 const isValid = bcryptjs_1.default.compareSync(password, user.password);
                 if (isValid) {
-                    // return user;
+                    return user;
                 }
             }
             return null;

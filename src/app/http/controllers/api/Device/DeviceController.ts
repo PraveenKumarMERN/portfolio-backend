@@ -13,7 +13,7 @@ export class DeviceController {
   }
 
   public static async update(req: Request, res: Response) {
-    const id = req.params.id
+    const id = req.params.id;
     const validatedData = req.body.validatedData;
     const { user } = req.body.auth;
     const response = await DeviceService.update(id, user.id, validatedData);

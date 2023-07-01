@@ -1,20 +1,21 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.ExceptionHandler = void 0;
+exports.ExceptionHandler = exports.NotFoundHandler = void 0;
 const logger_1 = require("../../providers/logger");
 /**
  * 404 api redirects
  */
-// export const NotFoundHandler = (req: Request, res: Response) => {
-//   logger.info(`Error 404:${req.method} ${req.originalUrl} - Not Found`);
-//   if (req.headers.accept === "application/json") {
-//     return res.status(404).json({
-//       status: false,
-//       message: "Not found",
-//     });
-//   }
-//   res.render("errors/404");
-// };
+const NotFoundHandler = (req, res) => {
+    logger_1.logger.info(`Error 404:${req.method} ${req.originalUrl} - Not Found`);
+    if (req.headers.accept === "application/json") {
+        return res.status(404).json({
+            status: false,
+            message: "Not found",
+        });
+    }
+    res.render("errors/404");
+};
+exports.NotFoundHandler = NotFoundHandler;
 /**
  * 500 request error handler
  */

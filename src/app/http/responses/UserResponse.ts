@@ -10,7 +10,6 @@ export const UserResponse = (data: User | User[]) => {
 
 const objectResponse = (user: User) => {
   return {
-    id:user.id,
     firstName: user.firstName,
     lastName: user.lastName,
     fullName: user.firstName + " " + user.lastName,

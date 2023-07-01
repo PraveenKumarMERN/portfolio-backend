@@ -48,8 +48,8 @@ class Express {
             if (!env_1.env.app.api_only) {
                 this.app.use("/", web_1.default);
             }
-            this.app.use(`/`, api_1.default);
-            this.app.use("/queues", serverAdapter.getRouter());
+            this.app.use(`/${env_1.env.app.api_prefix}`, api_1.default);
+            // this.app.use("/queues", serverAdapter.getRouter());
         };
         this.configureLocale = (middleware, i18next) => {
             this.app.use(middleware.handle(i18next));
@@ -75,7 +75,7 @@ class Express {
             }
         });
         this.configureExceptionHandler = () => {
-            // this.app.use(NotFoundHandler);
+            this.app.use(ExceptionHandler_1.NotFoundHandler);
             this.app.use(ExceptionHandler_1.ExceptionHandler);
         };
         this.app = (0, express_1.default)();

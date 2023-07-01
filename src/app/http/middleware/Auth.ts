@@ -23,11 +23,12 @@ export const verifyToken = async (
 
   try {
     const decoded = jwt.verify(token, env.auth.secret);
+    
     if (typeof decoded !== "string") {
       const device = await dbConnection.device.findFirst({
         where: {
-          authToken: token,
-          deletedAt: null,
+          userId: decoded.userId,
+          deletedAt: null || undefined,
         },
         include: {
           user: true,

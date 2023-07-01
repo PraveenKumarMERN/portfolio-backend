@@ -1,10 +1,9 @@
 import { logger } from "./app/providers/logger";
 import serverAdapter from "./app/providers/queues";
 import { Locale } from "./app/providers/locale";
-// import { cron } from "./app/providers/cron";
+import { cron } from "./app/providers/cron";
 import { Server } from "./app/providers/server";
 import { Express } from "./app/providers/express";
-import Socket from "./app/providers/socket";
 
 const express = new Express();
 const locale = new Locale();
@@ -19,10 +18,8 @@ Promise.all([
 ]).then(() => {
   const app = express.app;
   const httpServer = new Server(app);
-  Socket(httpServer.server),
-
   httpServer.start();
-  // cron.setup();
+  cron.setup();
 });
 
 process.on("uncaughtException", (err) => {

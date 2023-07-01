@@ -1,20 +1,20 @@
-// import { Emitter } from "@socket.io/redis-emitter";
-// import { createClient } from "redis";
+import { Emitter } from "@socket.io/redis-emitter";
+import { createClient } from "redis";
 import { env } from "../../env";
 
 interface Events {
   basicEmit: (a: number, b: string, c: number[]) => void;
 }
 
-// const IO = async () => {
-//   const url = env.redis.url;
-//   const redisClient = createClient({
-//     url: url,
-//   });
+const IO = async () => {
+  const url = env.redis.url;
+  const redisClient = createClient({
+    url: url,
+  });
 
-//   await redisClient.connect();
-//   return new Emitter<Events>(redisClient);
-// };
+  await redisClient.connect();
+  return new Emitter<Events>(redisClient);
+};
 
 /**
  *  connects to socket server adapter and emits data
@@ -23,9 +23,9 @@ interface Events {
  * @param data
  */
 const broadcastTo = async (namespace: any, event: any, data: any) => {
-  // const io = await IO();
-  // const response = io.to(namespace).emit(event, data);
-  // console.log("response for socket >>>", response);
+  const io = await IO();
+  const response = io.to(namespace).emit(event, data);
+  console.log("response for socket >>>", response);
 };
 
 export class SocketEmitter {

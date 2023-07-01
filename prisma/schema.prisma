@@ -9,39 +9,25 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Admin {
-  id                  String    @id @default(auto()) @map("_id") @db.ObjectId
-  firstName           String
-  lastName            String
-  email               String    @unique
-  password            String?
-  forgotPasswordToken String?
-  status              Status    @default(ACTIVE)
-  role                AdminRole @default(ADMIN)
-  createdAt           DateTime  @default(now())
-  updatedAt           DateTime  @updatedAt
-  deletedAt           DateTime?
-  Device              Device[]
-
-  @@map("admins")
-}
-
 model User {
   id                  String       @id @default(auto()) @map("_id") @db.ObjectId
   firstName           String
   lastName            String
   email               String       @unique
-  profileImage        String?
   password            String?
   forgotPasswordToken String?
+  socialId            String?      @unique
+  socialType          SocialTypes?
   status              Status       @default(ACTIVE)
   createdAt           DateTime     @default(now())
   updatedAt           DateTime     @updatedAt
   deletedAt           DateTime?
-  isConnected         Boolean      @default(false)
-  Device              Device[]
-  Message             Message[]
-  Favourites          Favourites[]
+
+  devices       Device[]
+  notifications Notification[]
+  Home          Home[]
+  Skills        Skills?
+  Technology    Technology[]
 
   @@map("users")
 }
@@ -49,74 +35,59 @@ model User {
 model Device {
   id        String    @id @default(auto()) @map("_id") @db.ObjectId
   userId    String    @db.ObjectId
-  userType  USER_TYPE
   fcmToken  String?
-  authToken String    @unique
-  device    DEVICES   @default(WEB)
+  authToken String
+  device    Devices
   metaData  Json?
   createdAt DateTime  @default(now())
   updatedAt DateTime  @updatedAt
   deletedAt DateTime?
-
-  user  User   @relation(fields: [userId], references: [id])
-  admin Admin? @relation(fields: [userId], references: [id])
+  user      User      @relation(fields: [userId], references: [id])
 
   @@map("devices")
 }
 
-model Channel {
-  id           String       @id @default(auto()) @map("_id") @db.ObjectId
-  name         String
-  users        String[]     @db.ObjectId
-  image        String?
-  profileImage String?
-  updatedAt    DateTime     @updatedAt
-  deletedAt    DateTime?
-  createdAt    DateTime     @default(now())
-  Favourites   Favourites[]
+model AppleDetail {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  firstName String
+  lastName  String
+  socialId  String   @unique
+  email     String   @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 
-  @@map("channels")
+  @@map("apple_details")
 }
 
-model Message {
-  id         String       @id @default(auto()) @map("_id") @db.ObjectId
-  message    String?
-  senderId   String       @db.ObjectId
-  type       MessageType? @default(PRIVATE)
-  receiverId String       @db.ObjectId
-  image      Image[]
-  isRead     Boolean      @default(false)
-  updatedAt  DateTime     @updatedAt
-  deletedAt  DateTime?
-  createdAt  DateTime     @default(now())
-  user       User         @relation(fields: [senderId], references: [id])
+model Notification {
+  id        String            @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String            @db.ObjectId
+  title     String
+  body      String
+  data      Json?
+  type      NotificationTypes
+  readAt    DateTime?
+  createdAt DateTime          @default(now())
+  updatedAt DateTime          @updatedAt
 
-  @@map("messages")
+  user User @relation(fields: [userId], references: [id])
+
+  @@map("notifications")
 }
 
-model Favourites {
-  id               String      @id @default(auto()) @map("_id") @db.ObjectId
-  userId           String?     @db.ObjectId
-  favouriteId      String?     @db.ObjectId
-  type             MessageType
-  updatedAt        DateTime    @updatedAt
-  deletedAt        DateTime?
-  createdAt        DateTime    @default(now())
-  favouriteChannel Channel?    @relation(fields: [favouriteId], references: [id])
-  favouriteUser    User?       @relation(fields: [favouriteId], references: [id])
-
-  @@map("favourites")
+enum Devices {
+  IOS
+  ANDROID
+  WEB
 }
 
-type Image {
-  url           String?
-  name          String?
-  compressedUrl String?
+enum NotificationTypes {
+  LoggedOut
 }
 
-enum MessageType {
-  GROUP
-  PRIVATE
+enum SocialTypes {
+  GOOGLE
+  APPLE
 }
 
 enum Status {
@@ -124,19 +95,50 @@ enum Status {
   INACTIVE
 }
 
-enum AdminRole {
-  ADMIN
-  SUPERADMIN
+model Home {
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  userId      String    @unique @db.ObjectId
+  designation String
+  about       String
+  button      String
+  updatedAt   DateTime  @updatedAt
+  deletedAt   DateTime?
+  user        User      @relation(fields: [userId], references: [id])
+
+  @@map("homes")
 }
 
-enum DEVICES {
-  IOS
-  ANDROID
-  WEB
-  API
+model Technology {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  percentage String
+  name       String
+  image      Json
+  color      String
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  deletedAt  DateTime?
+  User       User?     @relation(fields: [userId], references: [id])
+  userId     String?   @db.ObjectId
+  Skills     Skills?   @relation(fields: [skillsId], references: [id])
+  skillsId   String?   @db.ObjectId
+
+  @@map("technologies")
 }
 
-enum USER_TYPE {
-  ADMIN
-  USER
+model Skills {
+  id                      String       @id @default(auto()) @map("_id") @db.ObjectId
+  title                   String
+  userId                  String       @unique @db.ObjectId
+  years                   String
+  yearsTitle              String
+  satisfacationAbout      String
+  satisfacationPercentage String
+  about                   String
+  updatedAt               DateTime     @updatedAt
+  deletedAt               DateTime?
+  user                    User         @relation(fields: [userId], references: [id])
+  technology              Technology[]
+
+  @@map("skills")
 }

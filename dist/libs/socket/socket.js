@@ -10,14 +10,17 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.SocketEmitter = void 0;
-// const IO = async () => {
-//   const url = env.redis.url;
-//   const redisClient = createClient({
-//     url: url,
-//   });
-//   await redisClient.connect();
-//   return new Emitter<Events>(redisClient);
-// };
+const redis_emitter_1 = require("@socket.io/redis-emitter");
+const redis_1 = require("redis");
+const env_1 = require("../../env");
+const IO = () => __awaiter(void 0, void 0, void 0, function* () {
+    const url = env_1.env.redis.url;
+    const redisClient = (0, redis_1.createClient)({
+        url: url,
+    });
+    yield redisClient.connect();
+    return new redis_emitter_1.Emitter(redisClient);
+});
 /**
  *  connects to socket server adapter and emits data
  * @param namespace
@@ -25,9 +28,9 @@ exports.SocketEmitter = void 0;
  * @param data
  */
 const broadcastTo = (namespace, event, data) => __awaiter(void 0, void 0, void 0, function* () {
-    // const io = await IO();
-    // const response = io.to(namespace).emit(event, data);
-    // console.log("response for socket >>>", response);
+    const io = yield IO();
+    const response = io.to(namespace).emit(event, data);
+    console.log("response for socket >>>", response);
 });
 class SocketEmitter {
     // eslint-disable-next-line @typescript-eslint/no-empty-function

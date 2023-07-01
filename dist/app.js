@@ -15,10 +15,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const logger_1 = require("./app/providers/logger");
 const queues_1 = __importDefault(require("./app/providers/queues"));
 const locale_1 = require("./app/providers/locale");
-// import { cron } from "./app/providers/cron";
+const cron_1 = require("./app/providers/cron");
 const server_1 = require("./app/providers/server");
 const express_1 = require("./app/providers/express");
-const socket_1 = __importDefault(require("./app/providers/socket"));
 const express = new express_1.Express();
 const locale = new locale_1.Locale();
 const { middleware, i18next } = locale.initializeLocales();
@@ -31,9 +30,8 @@ Promise.all([
 ]).then(() => {
     const app = express.app;
     const httpServer = new server_1.Server(app);
-    (0, socket_1.default)(httpServer.server),
-        httpServer.start();
-    // cron.setup();
+    httpServer.start();
+    cron_1.cron.setup();
 });
 process.on("uncaughtException", (err) => {
     logger_1.logger.error(err);

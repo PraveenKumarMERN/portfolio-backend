@@ -9,7 +9,7 @@ import rateLimit from "express-rate-limit";
 import bodyParser from "body-parser";
 import {
   ExceptionHandler,
-  // NotFoundHandler,
+  NotFoundHandler,
 } from "../http/middleware/ExceptionHandler";
 import cors from "cors";
 
@@ -22,7 +22,7 @@ export class Express {
 
   initializeApp = () => {
     const port = process.env.APP_PORT;
-    this.app.use(
+    this.app.use( 
       cors({
         origin: '*',
         methods: ["GET", "HEAD", "OPTIONS", "POST", "PUT", "DELETE"],
@@ -49,8 +49,8 @@ export class Express {
     if (!env.app.api_only) {
       this.app.use("/", webRouter);
     }
-    this.app.use(`/`, apiRouter);
-    this.app.use("/queues", serverAdapter.getRouter());
+    this.app.use(`/${env.app.api_prefix}`, apiRouter);
+    // this.app.use("/queues", serverAdapter.getRouter());
   };
 
   configureLocale = (middleware: any, i18next: any) => {
@@ -83,7 +83,7 @@ export class Express {
   };
 
   configureExceptionHandler = () => {
-    // this.app.use(NotFoundHandler);
+    this.app.use(NotFoundHandler);
     this.app.use(ExceptionHandler);
   };
 }
