@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const DeviceController_1 = require("../../app/http/controllers/api/Device/DeviceController");
+const RequestValidator_1 = require("../../app/http/middleware/RequestValidator");
+const UpdateDeviceRequest_1 = require("../../app/http/requests/UpdateDeviceRequest");
+const router = (0, express_1.Router)();
+router.get("/", DeviceController_1.DeviceController.list);
+router.delete("/:id", DeviceController_1.DeviceController.delete);
+router.patch("/:id", (0, RequestValidator_1.RequestValidator)(UpdateDeviceRequest_1.UpdateDeviceRequest), DeviceController_1.DeviceController.update);
+exports.default = router;

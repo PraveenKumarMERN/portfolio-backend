@@ -1,0 +1,710 @@
+{"level":"info","time":1675959593179,"pid":4800,"hostname":"Lenovo","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033075121,"pid":6024,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033360505,"pid":7412,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033372990,"pid":2944,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033596586,"pid":4320,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033601099,"pid":3760,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033611633,"pid":15924,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033636644,"pid":7884,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033641258,"pid":12460,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681033717139,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /manifest.json - Not Found"}
+{"level":"info","time":1681033717681,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/js/bundle.js.map - Not Found"}
+{"level":"info","time":1681033749658,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-2.409879c4ed19b7908460.jpg - Not Found"}
+{"level":"info","time":1681033749678,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-3.0e58a74d36ce2dcc3c28.jpg - Not Found"}
+{"level":"info","time":1681033752986,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-1.b8bfd845bb4c83244efa.jpg - Not Found"}
+{"level":"info","time":1681033752988,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-2.409879c4ed19b7908460.jpg - Not Found"}
+{"level":"info","time":1681033753006,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-3.0e58a74d36ce2dcc3c28.jpg - Not Found"}
+{"level":"info","time":1681033753011,"pid":12460,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/media/img-1.092cfeb3aef1781ea3f1.jpg - Not Found"}
+{"level":"info","time":1681033968642,"pid":15644,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034055728,"pid":7832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034060589,"pid":15036,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034063618,"pid":6832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034069408,"pid":11032,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034139604,"pid":824,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034158967,"pid":8620,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034166159,"pid":656,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034169269,"pid":9320,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034180481,"pid":11676,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034191086,"pid":11388,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034196491,"pid":1292,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034204028,"pid":8904,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034523832,"pid":2656,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034526676,"pid":15688,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034581667,"pid":8984,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034606284,"pid":11832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034610578,"pid":3712,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034614196,"pid":10344,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681034616494,"pid":2820,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035447975,"pid":1580,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035469809,"pid":5572,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035476947,"pid":10840,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035480707,"pid":7156,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035495345,"pid":14556,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035497339,"pid":5184,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035509891,"pid":16676,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035673122,"pid":9888,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035680447,"pid":16488,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035687576,"pid":12464,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035689265,"pid":12976,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035692322,"pid":13776,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035694062,"pid":8364,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035700961,"pid":6996,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035705575,"pid":17040,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035710836,"pid":15108,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035716084,"pid":3880,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681035718426,"pid":17280,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681036994529,"pid":17280,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037088182,"pid":2972,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037092392,"pid":2972,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037204161,"pid":14992,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037208343,"pid":18380,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037213227,"pid":18380,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037234632,"pid":17740,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037350579,"pid":17740,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037376275,"pid":8272,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037381021,"pid":8272,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037396337,"pid":6832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037402101,"pid":9848,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037404243,"pid":18324,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037406877,"pid":18324,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037462885,"pid":12860,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037465991,"pid":12860,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037470238,"pid":11712,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037473350,"pid":12384,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037626463,"pid":6872,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037642350,"pid":6872,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037655047,"pid":16656,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037657010,"pid":16316,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037659073,"pid":224,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037662651,"pid":10788,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037665297,"pid":10788,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037692155,"pid":10788,"hostname":"Praveen-Singh","msg":"Error 404:POST /user/login - Not Found"}
+{"level":"info","time":1681037697901,"pid":10788,"hostname":"Praveen-Singh","msg":"Error 404:POST /login - Not Found"}
+{"level":"info","time":1681037790493,"pid":15496,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681037844762,"pid":15496,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 1740ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681037845006,"pid":15496,"hostname":"Praveen-Singh","msg":"Query Device.create took 96ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzc4NDQsImV4cCI6MTY4MTA0NTA0NH0.wCHAzcHJtHmeimRuX4tWIaZtuVRspPc_KqjyN9l693U\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681037901399,"pid":15496,"hostname":"Praveen-Singh","msg":"Error 404:POST /home - Not Found"}
+{"level":"info","time":1681039042675,"pid":15496,"hostname":"Praveen-Singh","msg":"Error 404:GET /login - Not Found"}
+{"level":"info","time":1681039090754,"pid":15496,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 3ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039090895,"pid":15496,"hostname":"Praveen-Singh","msg":"Query Device.create took 14ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzkwOTAsImV4cCI6MTY4MTA0NjI5MH0.8S6Pn9eNvBqJZ3r4QXrOiLlwmuhkOsY7Dp77MV3dDO4\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039166987,"pid":15496,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 385ms\n    Query params : {\"where\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzkwOTAsImV4cCI6MTY4MTA0NjI5MH0.8S6Pn9eNvBqJZ3r4QXrOiLlwmuhkOsY7Dp77MV3dDO4\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681039178716,"pid":15496,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 4ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039178856,"pid":15496,"hostname":"Praveen-Singh","msg":"Query Device.create took 6ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzkxNzgsImV4cCI6MTY4MTA0NjM3OH0.CcJvKaJOoUML1fpeBPKslZ-TG0G-SIP4yzVdhWTyVFU\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039194553,"pid":15496,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 2ms\n    Query params : {\"where\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzkxNzgsImV4cCI6MTY4MTA0NjM3OH0.CcJvKaJOoUML1fpeBPKslZ-TG0G-SIP4yzVdhWTyVFU\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681039254648,"pid":4288,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039266326,"pid":4288,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 71ms\n    Query params : {\"where\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzkxNzgsImV4cCI6MTY4MTA0NjM3OH0.CcJvKaJOoUML1fpeBPKslZ-TG0G-SIP4yzVdhWTyVFU\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681039392745,"pid":8512,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039401594,"pid":18296,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039404388,"pid":7292,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039409429,"pid":7736,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039414810,"pid":1920,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039420475,"pid":10968,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039426821,"pid":10968,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 68ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039427149,"pid":10968,"hostname":"Praveen-Singh","msg":"Query Device.create took 12ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk0MjcsImV4cCI6MTY4MTA0NjYyN30.1XFmnQv70h5Nj_v-jt25V9_FvdPjlNl_q1TAma87DuI\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039539749,"pid":18144,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039543461,"pid":18144,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 61ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039543666,"pid":18144,"hostname":"Praveen-Singh","msg":"Query Device.create took 21ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk1NDMsImV4cCI6MTY4MTA0Njc0M30.C2mby0H7TF3GViPZy1l6W3dfHCOe51vyV2m-gGUyGBw\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039688033,"pid":6428,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039702359,"pid":14352,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039711245,"pid":11864,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039716571,"pid":6068,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039722378,"pid":15268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039728496,"pid":15268,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 51ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039728675,"pid":15268,"hostname":"Praveen-Singh","msg":"Query Device.create took 13ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk3MjgsImV4cCI6MTY4MTA0NjkyOH0.RLzr63W8DAhtWsFM-hpRups8EW8_2iFZ7PmaJvVN5As\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039776052,"pid":100,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039777805,"pid":100,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 51ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039778012,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.create took 15ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk3NzcsImV4cCI6MTY4MTA0Njk3N30.jvyneZoAJRUUWPyu6EXViLIs7eBL-Dq8eknX1Wf7dPQ\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039778028,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.create took 13ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk3NzgsImV4cCI6MTY4MTA0Njk3OH0.dS1V3jwHaHlhU_AJn4QnePKSQH2y5EBfWGxLTDiE8Bk\",\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039798401,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 25ms\n    Query params : {\"where\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk3NzcsImV4cCI6MTY4MTA0Njk3N30.jvyneZoAJRUUWPyu6EXViLIs7eBL-Dq8eknX1Wf7dPQ\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681039853769,"pid":100,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 4ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681039853894,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.create took 9ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk4NTMsImV4cCI6MTY4MTA0NzA1M30.3IKT8WJCVUlkQErhPA3hSZfQlSk7OO4DlU8cgLetXC0\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039854006,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.create took 102ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk4NTMsImV4cCI6MTY4MTA0NzA1M30.3IKT8WJCVUlkQErhPA3hSZfQlSk7OO4DlU8cgLetXC0\",\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681039870045,"pid":100,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwMzk4NTMsImV4cCI6MTY4MTA0NzA1M30.3IKT8WJCVUlkQErhPA3hSZfQlSk7OO4DlU8cgLetXC0\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681039890349,"pid":17620,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039986454,"pid":17576,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681039993076,"pid":17968,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040014597,"pid":7064,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040022748,"pid":7064,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 92ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040036218,"pid":9468,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040047419,"pid":15268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040055782,"pid":17976,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040058922,"pid":17976,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 48ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040089676,"pid":6560,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040092026,"pid":6560,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 58ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"deletedAt\":null},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040110622,"pid":15456,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040113832,"pid":15456,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 244ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040113849,"pid":15456,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681040128316,"pid":17768,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040139769,"pid":8272,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040140490,"pid":8272,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 51ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040140501,"pid":8272,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681040141707,"pid":8272,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040141712,"pid":8272,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681040154284,"pid":12028,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040210288,"pid":10704,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040215411,"pid":15416,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040430216,"pid":17112,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040439186,"pid":17800,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040446458,"pid":18084,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040450056,"pid":12588,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040460501,"pid":16488,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040491767,"pid":5284,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040541977,"pid":6876,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040557506,"pid":16888,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040565813,"pid":8820,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040579991,"pid":7588,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040606558,"pid":10948,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040609719,"pid":11172,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040612860,"pid":9320,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040616957,"pid":17260,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040624158,"pid":5480,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040627429,"pid":18304,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040631730,"pid":9824,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040636888,"pid":4928,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040641194,"pid":13652,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040649481,"pid":2448,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040654612,"pid":17544,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040738916,"pid":10688,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040748000,"pid":14624,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040755900,"pid":4392,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040758785,"pid":10792,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040764952,"pid":17536,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040774399,"pid":11988,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040778377,"pid":14720,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040781082,"pid":17180,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040788669,"pid":6560,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040839601,"pid":15400,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040883607,"pid":8288,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040886112,"pid":18388,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040955362,"pid":18388,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 60ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681040955741,"pid":18388,"hostname":"Praveen-Singh","msg":"Query Home.updateMany took 374ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"data\":{\"title\":\"Hello\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681040969617,"pid":18416,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681040980819,"pid":6564,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041066634,"pid":1584,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041084996,"pid":16268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041222554,"pid":16268,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 193ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681041266309,"pid":14488,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041276552,"pid":13432,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041281715,"pid":13988,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041330321,"pid":12580,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041341153,"pid":11428,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041343398,"pid":1108,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041346272,"pid":1032,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041357988,"pid":11268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041363934,"pid":11824,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041368579,"pid":15928,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041374633,"pid":17328,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041380953,"pid":12432,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041385941,"pid":17492,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041387745,"pid":13636,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041399920,"pid":4568,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041403461,"pid":18244,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041419768,"pid":11792,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041424076,"pid":11268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041429349,"pid":624,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041438714,"pid":18028,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041445587,"pid":11356,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041450308,"pid":6832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041459386,"pid":6832,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 56ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681041459568,"pid":6832,"hostname":"Praveen-Singh","msg":"Query Home.upsert took 179ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Hello\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"},\"update\":{\"title\":\"Hello\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681041470815,"pid":6832,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681041471016,"pid":6832,"hostname":"Praveen-Singh","msg":"Query Home.upsert took 199ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"},\"update\":{\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681041677598,"pid":10024,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041680859,"pid":7064,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041682943,"pid":7064,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 58ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681041682971,"pid":7064,"hostname":"Praveen-Singh","msg":"Query Home.upsert took 25ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"},\"update\":{\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681041703171,"pid":9632,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041704357,"pid":9632,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 52ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681041704377,"pid":9632,"hostname":"Praveen-Singh","msg":"Query Home.upsert took 17ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"},\"update\":{\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Contact Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681041727781,"pid":8356,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041734694,"pid":12764,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041740146,"pid":10572,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681041829990,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /main.2ee7e742bebb241d9f00.hot-update.json - Not Found"}
+{"level":"info","time":1681041894260,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681041897296,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681041902365,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681041911280,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681041928272,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681041961504,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681042026270,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681042155323,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681042412283,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1681042641802,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /static/js/bundle.js.map - Not Found"}
+{"level":"info","time":1681042647785,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1681042731851,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1681042738094,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1681042761805,"pid":10572,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1681042903157,"pid":10420,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681042929492,"pid":14368,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681043008774,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 805ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043008782,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043085281,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043085287,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043088440,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043088445,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043094295,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043094299,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043096336,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 20ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043096342,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043097271,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043097278,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043100276,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043100281,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043104268,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043104273,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043107301,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043107308,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043111307,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043111314,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043115540,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043115544,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043117282,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043117286,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043119306,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043119310,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043123275,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043123279,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043135273,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043135280,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043138277,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043138281,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043144272,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043144276,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043149990,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043149994,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043172324,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 16ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043172328,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043175271,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043175275,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043181278,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043181283,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043183419,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043183423,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043186281,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043186284,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043190271,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043190275,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043195256,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043195263,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043199264,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043199269,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043204111,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043204119,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043207356,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043207360,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043232119,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043232124,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681043234366,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681043234370,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046433122,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 31ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046433256,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 132ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046435348,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 32ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046435354,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046468681,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 47ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046468694,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 9ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046502626,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046502633,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046503221,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 18ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046503226,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046504706,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046504712,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046521680,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046521686,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046523254,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046523259,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046538133,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 11ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046538138,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046538185,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046538189,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046539374,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 9ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046539384,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046541108,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046541117,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046542984,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 14ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046542989,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046544382,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046544386,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046558384,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 16ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046558394,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046562729,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 15ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046562735,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046565568,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046565574,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046568328,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046568333,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046569685,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046569691,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046576867,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046576876,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046583244,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046583247,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046584276,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046584280,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046589784,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 13ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046589790,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681046590215,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681046590223,"pid":14368,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681051608983,"pid":13824,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681051613071,"pid":1620,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052164053,"pid":1688,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052190659,"pid":9788,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052196634,"pid":16964,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052201589,"pid":17856,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052205275,"pid":5204,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052209439,"pid":11172,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052215380,"pid":11344,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052238117,"pid":11344,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 88ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681052238545,"pid":11344,"hostname":"Praveen-Singh","msg":"Query Device.create took 243ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwNTIyMzgsImV4cCI6MTY4MTA1OTQzOH0.B8UipNGiXPHSdXndtkgv9_XRzz66nzbkOnw5YTRhz94\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681052238562,"pid":11344,"hostname":"Praveen-Singh","msg":"Query Device.create took 13ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwNTIyMzgsImV4cCI6MTY4MTA1OTQzOH0.B8UipNGiXPHSdXndtkgv9_XRzz66nzbkOnw5YTRhz94\",\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681052255558,"pid":11344,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681052255589,"pid":11344,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 27ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681052288180,"pid":428,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052324388,"pid":1728,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052346212,"pid":13080,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052356361,"pid":7128,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052366515,"pid":13032,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052384267,"pid":11324,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052577813,"pid":10708,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052651500,"pid":18192,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052655063,"pid":10964,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052950545,"pid":10120,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052975517,"pid":2944,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681052999235,"pid":9808,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053049900,"pid":6524,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053058434,"pid":11380,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053061830,"pid":13864,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053066201,"pid":6888,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053069093,"pid":15016,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053073294,"pid":10616,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053091763,"pid":6872,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053212098,"pid":3680,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053214430,"pid":18244,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053217969,"pid":224,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053230018,"pid":11268,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053232373,"pid":17840,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053237745,"pid":15584,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053240703,"pid":18144,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053329494,"pid":15432,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053840032,"pid":12060,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681053866198,"pid":12060,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 655ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681053866249,"pid":12060,"hostname":"Praveen-Singh","msg":"Query Technology.create took 42ms\n    Query params : {\"data\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Node JS\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681053895717,"pid":12060,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681053895723,"pid":12060,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681054049756,"pid":14000,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054067193,"pid":17308,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054094517,"pid":12332,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054095720,"pid":12332,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 63ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054155054,"pid":11064,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054162513,"pid":18144,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054579618,"pid":18144,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 96ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054595933,"pid":7444,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054608082,"pid":9444,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054614909,"pid":11732,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054618309,"pid":2396,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054626152,"pid":7516,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054635019,"pid":19332,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054638663,"pid":17340,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054685529,"pid":8152,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054687925,"pid":8152,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 66ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054735138,"pid":18868,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054737253,"pid":16828,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054746922,"pid":19036,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054752183,"pid":7880,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054762830,"pid":14748,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054774920,"pid":17852,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054780064,"pid":8636,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054792440,"pid":18920,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054799073,"pid":10232,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054802010,"pid":10232,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 65ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054802088,"pid":10232,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 74ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681054816104,"pid":18412,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054818273,"pid":18412,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 97ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054820199,"pid":18412,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054829809,"pid":5516,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681054830688,"pid":5516,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 66ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681054839244,"pid":9808,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055017304,"pid":9808,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 77ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681055017451,"pid":9808,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 141ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681055034441,"pid":17764,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055041012,"pid":17836,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055047371,"pid":7736,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055056947,"pid":5132,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055065535,"pid":18860,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055066892,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 69ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681055066920,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 24ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"technologyId\":\"6432d8aa12f78e728552fa2f\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"Technology\":true}}\n    "}
+{"level":"info","time":1681055287343,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681055287351,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"Technology\":true}}\n    "}
+{"level":"info","time":1681055946005,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681055946014,"pid":18860,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"Technology\":true}}\n    "}
+{"level":"info","time":1681055981940,"pid":12680,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681055988525,"pid":18560,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056002791,"pid":15744,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056004439,"pid":15744,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 65ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056004451,"pid":15744,"hostname":"Praveen-Singh","msg":"Query Technology.findFirst took 9ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"skills\":true}}\n    "}
+{"level":"info","time":1681056084643,"pid":15744,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056084675,"pid":15744,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 24ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"technologyId\":\"6432d8aa12f78e728552fa2f\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"Technology\":true}}\n    "}
+{"level":"info","time":1681056190854,"pid":18836,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056195598,"pid":18132,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056202203,"pid":19252,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056205111,"pid":19252,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 69ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056216415,"pid":7696,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056225255,"pid":9840,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056235149,"pid":9840,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 73ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056235179,"pid":9840,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 23ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681056248638,"pid":18576,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056258185,"pid":18744,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056276357,"pid":19204,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056387213,"pid":19044,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056393211,"pid":15744,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056421185,"pid":18700,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056425243,"pid":17852,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056433934,"pid":6832,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056445061,"pid":2772,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056448759,"pid":18884,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056470182,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 80ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056470189,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681056470318,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Technology.create took 127ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"React JS\",\"percentage\":\"70\",\"color\":\"green\"}}\n    "}
+{"level":"info","time":1681056477232,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056477262,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 23ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681056542889,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056542895,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681056542955,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Technology.create took 59ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Node JS\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681056546219,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056546235,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 15ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681056668911,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056668919,"pid":18884,"hostname":"Praveen-Singh","msg":"Query Technology.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"Skills\":true}}\n    "}
+{"level":"info","time":1681056694815,"pid":17120,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056696738,"pid":17120,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 63ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056696748,"pid":17120,"hostname":"Praveen-Singh","msg":"Query Technology.findFirst took 7ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681056710866,"pid":15892,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681056713129,"pid":15892,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 259ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681056713136,"pid":15892,"hostname":"Praveen-Singh","msg":"Query Technology.findMany took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681057200206,"pid":9532,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057241982,"pid":14460,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057245205,"pid":12992,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057249306,"pid":13024,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057254010,"pid":16636,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057258092,"pid":7696,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057260505,"pid":5340,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057264038,"pid":19084,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057274616,"pid":15668,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057280505,"pid":11668,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057285422,"pid":2944,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057289062,"pid":19052,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057294562,"pid":2044,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057299836,"pid":8112,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057304316,"pid":10296,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057360853,"pid":18472,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057363195,"pid":18192,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057366554,"pid":9736,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057398326,"pid":19380,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057403517,"pid":11604,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057412861,"pid":15656,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057420797,"pid":1916,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057424205,"pid":16888,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057429454,"pid":17124,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1681057430453,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 427ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057430580,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 200ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057489763,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 25ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057489765,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 20ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057490031,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057516034,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 39ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057533322,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 9ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057537797,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 64ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057547372,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057555304,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057564497,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057567890,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 12ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057574011,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 86ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057576773,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 24ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057578000,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 11ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057584472,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 46ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057592466,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 103ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057595667,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 11ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057598140,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057598146,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057629962,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057632831,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 18ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057636529,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 7ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057636535,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057648295,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 12ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057648296,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 20ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057653744,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 9ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681057653946,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 200ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"update\":{\"title\":\"Node\",\"about\":\"Node React\",\"satisfacationAbout\":\"Client\",\"satisfacationPercentage\":\"99\",\"years\":\"5\",\"yearsTitle\":\"Experence\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057659528,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 26ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057659530,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 11ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057682564,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 12ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057682570,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 14ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057684007,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057686740,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 9ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057686744,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057688932,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 14ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057688934,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 12ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057756851,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 40ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057756932,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 125ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057767612,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 17ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057767614,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057767928,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057769309,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057769310,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 3ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057770741,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057770745,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057791597,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057799035,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057801330,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057849945,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 54ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057849947,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 51ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057854923,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 11ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057855052,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057887580,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 59ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057887582,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 53ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057889707,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057889710,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 22ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057891861,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057891874,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057893204,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 48ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057893241,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057897318,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 76ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057897319,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 84ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057899635,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 18ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057900843,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057900855,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 23ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057913828,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057913831,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057915011,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057915025,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057922924,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 9ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057922931,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 9ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057947760,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {}\n    "}
+{"level":"info","time":1681057947766,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057959168,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057969105,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057977372,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057986856,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681057989452,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058000831,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 3ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058012277,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058012299,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 21ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"3.5\",\"yearsTitle\":\"Years of Experience\"},\"update\":{\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"3.5\",\"yearsTitle\":\"Years of Experience\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058035711,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058040312,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 11ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058040316,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058041700,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 10ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058041704,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058043303,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 9ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058043307,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058052836,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 8ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058052838,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058067364,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058067371,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681058067549,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Technology.create took 177ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Express JS\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681058075334,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058075342,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681058075349,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Technology.create took 7ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"MongoDB\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681058084229,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 5ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058084234,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681058084245,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Technology.create took 10ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Rest API\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681058093175,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058093179,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 2ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681058093188,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Technology.create took 8ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Deployment\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681058094172,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 8ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058094177,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058109480,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 128ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681058109493,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"}}\n    "}
+{"level":"info","time":1681058109505,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 14ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058109506,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Technology.create took 12ms\n    Query params : {\"data\":{\"skillsId\":\"6432dc5233eb0bb302c88701\",\"userId\":\"643286fa0a26c9da9b1bfed3\",\"image\":\"png\",\"name\":\"Deployment 1\",\"percentage\":\"70\",\"color\":\"red\"}}\n    "}
+{"level":"info","time":1681058109511,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058118104,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058118127,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058131920,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058131923,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058144012,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 15ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058144013,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058145214,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058145228,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058161149,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058161158,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058164026,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058164031,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058165453,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058165494,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 42ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058168059,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 7ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058168062,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058178513,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 9ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058178515,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058182960,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058182965,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058204890,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 2ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058204894,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681058205713,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681058205718,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681062931436,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 13ms\n    Query params : {}\n    "}
+{"level":"info","time":1681062931438,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681064046896,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 12ms\n    Query params : {}\n    "}
+{"level":"info","time":1681064046899,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 10ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065449158,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 12ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065449164,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 12ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065753592,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 5ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065753599,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 8ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065768053,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065768058,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065769395,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 6ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065769408,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 13ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065818931,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 11ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065818937,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065825888,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 7ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065825893,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065828027,"pid":17124,"hostname":"Praveen-Singh","msg":"Query User.findFirst took 16ms\n    Query params : {\"where\":{\"email\":\"Nels.Baumbach@hotmail.com\"}}\n    "}
+{"level":"info","time":1681065828435,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.create took 207ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwNjU4MjgsImV4cCI6MTY4MTA3MzAyOH0.2veWrgyUv4oIDc6YoFHyOuvRgepkqAiWeNtEXBVp8ns\",\"fcmToken\":null,\"metaData\":{},\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681065828456,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.create took 17ms\n    Query params : {\"data\":{\"authToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDMyODZmYTBhMjZjOWRhOWIxYmZlZDMiLCJpYXQiOjE2ODEwNjU4MjgsImV4cCI6MTY4MTA3MzAyOH0.2veWrgyUv4oIDc6YoFHyOuvRgepkqAiWeNtEXBVp8ns\",\"device\":\"WEB\",\"user\":{\"connect\":{\"id\":\"643286fa0a26c9da9b1bfed3\"}}}}\n    "}
+{"level":"info","time":1681065898370,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681065898395,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 25ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"2.5\",\"yearsTitle\":\"Years of Experience\"},\"update\":{\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"2.5\",\"yearsTitle\":\"Years of Experience\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065900952,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065900959,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065919976,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 8ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681065920016,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 39ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"3.5\",\"yearsTitle\":\"Years of Experience\"},\"update\":{\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"3.5\",\"yearsTitle\":\"Years of Experience\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065921667,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065921673,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065943590,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 3ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681065943611,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.upsert took 19ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"1.5\",\"yearsTitle\":\"Years of Experience\"},\"update\":{\"title\":\"My Skills\",\"about\":\"Skilled Mobile Developer with strong experience in API development. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages including React, Node, Constantly striving to leartoonn new technologies and look to ways to better myself in this rapidly changing industry. Hard working, detail oriented and able to multi-task effectively.\",\"satisfacationAbout\":\"Clients Satisfacation\",\"satisfacationPercentage\":\"99\",\"years\":\"1.5\",\"yearsTitle\":\"Years of Experience\"},\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065944983,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065944987,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065956028,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065956034,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681065966941,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681065966946,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681066001874,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681066001900,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681066063626,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 8ms\n    Query params : {}\n    "}
+{"level":"info","time":1681066063629,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 6ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681066172407,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 4ms\n    Query params : {}\n    "}
+{"level":"info","time":1681066172412,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 7ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681066198301,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Device.findFirst took 4ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"include\":{\"user\":true}}\n    "}
+{"level":"info","time":1681066198322,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.upsert took 16ms\n    Query params : {\"where\":{\"userId\":\"643286fa0a26c9da9b1bfed3\"},\"create\":{\"userId\":\"643286fa0a26c9da9b1bfed3\",\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Hire Me\",\"designation\":\"MERN Stack\"},\"update\":{\"title\":\"Hell123\",\"about\":\"Hello World\",\"button\":\"Hire Me\",\"designation\":\"MERN Stack\"}}\n    "}
+{"level":"info","time":1681066199226,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 10ms\n    Query params : {}\n    "}
+{"level":"info","time":1681066199230,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 5ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681097422864,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 78ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681097422880,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 97ms\n    Query params : {}\n    "}
+{"level":"info","time":1681097423369,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 54ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681097466806,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 13ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1681097466809,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 19ms\n    Query params : {}\n    "}
+{"level":"info","time":1681097473185,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Home.findFirst took 3ms\n    Query params : {}\n    "}
+{"level":"info","time":1681097473189,"pid":17124,"hostname":"Praveen-Singh","msg":"Query Skills.findFirst took 4ms\n    Query params : {\"include\":{\"technology\":true}}\n    "}
+{"level":"info","time":1683388689928,"pid":28092,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1683388710375,"pid":28092,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1683400242033,"pid":23516,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1683401366658,"pid":23516,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401366883,"pid":23516,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401368969,"pid":23516,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401373773,"pid":23596,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
+{"level":"info","time":1683401373926,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401376631,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401379771,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1683401382231,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401389074,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1683401398547,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401431136,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401495294,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401623694,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1683401707620,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /favicon.ico - Not Found"}
+{"level":"info","time":1683401879791,"pid":23596,"hostname":"Praveen-Singh","msg":"Error 404:GET /ws - Not Found"}
+{"level":"info","time":1688226586406,"pid":17828,"hostname":"Praveen-Singh","msg":"Server Listening on port:3000"}
