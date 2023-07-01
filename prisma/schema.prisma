@@ -1,0 +1,142 @@
+// This is your Prisma schema file,
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id                  String    @id @default(auto()) @map("_id") @db.ObjectId
+  firstName           String
+  lastName            String
+  email               String    @unique
+  password            String?
+  forgotPasswordToken String?
+  status              Status    @default(ACTIVE)
+  role                AdminRole @default(ADMIN)
+  createdAt           DateTime  @default(now())
+  updatedAt           DateTime  @updatedAt
+  deletedAt           DateTime?
+  Device              Device[]
+
+  @@map("admins")
+}
+
+model User {
+  id                  String       @id @default(auto()) @map("_id") @db.ObjectId
+  firstName           String
+  lastName            String
+  email               String       @unique
+  profileImage        String?
+  password            String?
+  forgotPasswordToken String?
+  status              Status       @default(ACTIVE)
+  createdAt           DateTime     @default(now())
+  updatedAt           DateTime     @updatedAt
+  deletedAt           DateTime?
+  isConnected         Boolean      @default(false)
+  Device              Device[]
+  Message             Message[]
+  Favourites          Favourites[]
+
+  @@map("users")
+}
+
+model Device {
+  id        String    @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String    @db.ObjectId
+  userType  USER_TYPE
+  fcmToken  String?
+  authToken String    @unique
+  device    DEVICES   @default(WEB)
+  metaData  Json?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  deletedAt DateTime?
+
+  user  User   @relation(fields: [userId], references: [id])
+  admin Admin? @relation(fields: [userId], references: [id])
+
+  @@map("devices")
+}
+
+model Channel {
+  id           String       @id @default(auto()) @map("_id") @db.ObjectId
+  name         String
+  users        String[]     @db.ObjectId
+  image        String?
+  profileImage String?
+  updatedAt    DateTime     @updatedAt
+  deletedAt    DateTime?
+  createdAt    DateTime     @default(now())
+  Favourites   Favourites[]
+
+  @@map("channels")
+}
+
+model Message {
+  id         String       @id @default(auto()) @map("_id") @db.ObjectId
+  message    String?
+  senderId   String       @db.ObjectId
+  type       MessageType? @default(PRIVATE)
+  receiverId String       @db.ObjectId
+  image      Image[]
+  isRead     Boolean      @default(false)
+  updatedAt  DateTime     @updatedAt
+  deletedAt  DateTime?
+  createdAt  DateTime     @default(now())
+  user       User         @relation(fields: [senderId], references: [id])
+
+  @@map("messages")
+}
+
+model Favourites {
+  id               String      @id @default(auto()) @map("_id") @db.ObjectId
+  userId           String?     @db.ObjectId
+  favouriteId      String?     @db.ObjectId
+  type             MessageType
+  updatedAt        DateTime    @updatedAt
+  deletedAt        DateTime?
+  createdAt        DateTime    @default(now())
+  favouriteChannel Channel?    @relation(fields: [favouriteId], references: [id])
+  favouriteUser    User?       @relation(fields: [favouriteId], references: [id])
+
+  @@map("favourites")
+}
+
+type Image {
+  url           String?
+  name          String?
+  compressedUrl String?
+}
+
+enum MessageType {
+  GROUP
+  PRIVATE
+}
+
+enum Status {
+  ACTIVE
+  INACTIVE
+}
+
+enum AdminRole {
+  ADMIN
+  SUPERADMIN
+}
+
+enum DEVICES {
+  IOS
+  ANDROID
+  WEB
+  API
+}
+
+enum USER_TYPE {
+  ADMIN
+  USER
+}
