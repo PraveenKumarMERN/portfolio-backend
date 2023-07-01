@@ -12,7 +12,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const logger_1 = require("./app/providers/logger");
+// import { logger } from "./app/providers/logger";
 const queues_1 = __importDefault(require("./app/providers/queues"));
 const locale_1 = require("./app/providers/locale");
 const cron_1 = require("./app/providers/cron");
@@ -34,14 +34,14 @@ Promise.all([
     cron_1.cron.setup();
 });
 process.on("uncaughtException", (err) => {
-    logger_1.logger.error(err);
+    // logger.error(err);
     process.exit(1);
 });
 process.on("SIGTERM", () => __awaiter(void 0, void 0, void 0, function* () {
-    logger_1.logger.debug("SIGTERM signal received: closing HTTP server");
+    // logger.debug("SIGTERM signal received: closing HTTP server");
     process.exit(1);
 }));
 process.on("unhandledRejection", (err) => {
-    logger_1.logger.error(err);
+    // logger.error(err);
     process.exit(1);
 });

@@ -1,5 +1,5 @@
 import { PrismaClient } from "@prisma/client";
-import { logger } from "./logger";
+// import { logger } from "./logger";
 
 const dbConnection = new PrismaClient();
 
@@ -30,7 +30,7 @@ dbConnection.$use(async (params, next) => {
 
   const after = Date.now();
 
-  logger.info(
+  console.info(
     `Query ${params.model}.${params.action} took ${after - before}ms
     Query params : ${JSON.stringify(params.args)}
     `

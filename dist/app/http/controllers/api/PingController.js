@@ -10,11 +10,11 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.PingController = void 0;
-const logger_1 = require("../../../providers/logger");
+// import { logger } from "../../../providers/logger";
 class PingController {
     static pong(req, res) {
         return __awaiter(this, void 0, void 0, function* () {
-            logger_1.logger.debug("Server Pinged");
+            // logger.debug("Server Pinged");
             return res.json({
                 status: true,
                 message: req.t("pong"),

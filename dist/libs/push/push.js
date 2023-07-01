@@ -34,7 +34,6 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.PushNotification = void 0;
 const admin = __importStar(require("firebase-admin"));
-const logger_1 = require("../../app/providers/logger");
 class PushNotification {
     constructor({ tokens }) {
         this.registrationTokens = tokens;
@@ -50,7 +49,7 @@ class PushNotification {
                     .sendToDevice(this.registrationTokens, data);
             }
             catch (error) {
-                logger_1.logger.error(`fcm send error ${error.message}`);
+                // logger.error(`fcm send error ${error.message}`);
                 return error.message;
             }
         });

@@ -1,11 +1,11 @@
 import { NextFunction, Request, Response } from "express";
-import { logger } from "../../providers/logger";
+// import { logger } from "../../providers/logger";
 
 /**
  * 404 api redirects
  */
 export const NotFoundHandler = (req: Request, res: Response) => {
-  logger.info(`Error 404:${req.method} ${req.originalUrl} - Not Found`);
+  console.info(`Error 404:${req.method} ${req.originalUrl} - Not Found`);
   if (req.headers.accept === "application/json") {
     return res.status(404).json({
       status: false,
@@ -24,7 +24,7 @@ export const ExceptionHandler = (
   res: Response,
   next: NextFunction
 ) => {
-  logger.error(`Error 500: ${err.stack}`);
+  console.error(`Error 500: ${err.stack}`);
 
   if (req.headers.accept === "application/json") {
     return res.status(500).send({

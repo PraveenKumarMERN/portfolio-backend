@@ -1,4 +1,4 @@
-import { logger } from "./app/providers/logger";
+// import { logger } from "./app/providers/logger";
 import serverAdapter from "./app/providers/queues";
 import { Locale } from "./app/providers/locale";
 import { cron } from "./app/providers/cron";
@@ -23,16 +23,16 @@ Promise.all([
 });
 
 process.on("uncaughtException", (err) => {
-  logger.error(err);
+  // logger.error(err);
   process.exit(1);
 });
 
 process.on("SIGTERM", async () => {
-  logger.debug("SIGTERM signal received: closing HTTP server");
+  // logger.debug("SIGTERM signal received: closing HTTP server");
   process.exit(1);
 });
 
 process.on("unhandledRejection", (err) => {
-  logger.error(err);
+  // logger.error(err);
   process.exit(1);
 });

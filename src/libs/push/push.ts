@@ -3,7 +3,7 @@ import {
   MessagingPayload,
 } from "firebase-admin/lib/messaging/messaging-api";
 import * as admin from "firebase-admin";
-import { logger } from "../../app/providers/logger";
+// import { logger } from "../../app/providers/logger";
 
 type Props = {
   tokens: string[];
@@ -26,7 +26,7 @@ export class PushNotification {
         .messaging()
         .sendToDevice(this.registrationTokens, data);
     } catch (error: any) {
-      logger.error(`fcm send error ${error.message}`);
+      // logger.error(`fcm send error ${error.message}`);
       return error.message as string;
     }
   }
