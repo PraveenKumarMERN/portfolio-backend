@@ -67,7 +67,7 @@ Generate controller,routes,request,response,mail and jobs with command
 
 ## Authors
 
-- [@rajanmodi30](https://github.com/rajanmodi30)
+- [@PraveenKumarMERN](https://github.com/PraveenKumarMERN)
 
 
 ## License
